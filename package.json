@@ -21,7 +21,8 @@
   "dependencies": {
     "yeoman-generator": "git://github.com/mrichard/generator.git",
     "findit": "~0.1.2",
-    "underscore": "~1.5.1"
+    "underscore": "~1.5.1",
+    "inflector": "git+ssh://git@github.com:fakewaffle/inflector.git"
   },
   "devDependencies": {
     "mocha": "~1.9.0"
